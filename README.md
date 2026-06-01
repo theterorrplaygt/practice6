@@ -93,12 +93,11 @@ API использует **JWT-токены** (библиотека `djangorestf
 
 
 # 1. Клонировать репозиторий
-git clone https://github.com/ваш_username/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/theterorrplaygt/practice6.git
 
 # 2. Создать и активировать виртуальное окружение
 python -m venv venv
-source venv/bin/activate      # Linux/macOS
+
 # venv\Scripts\activate       # Windows
 
 # 3. Установить зависимости
